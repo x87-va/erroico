@@ -1,0 +1,2 @@
+-import(erroico, [do/1, bind/3]).
+-compile({parse_transform, erroico_pt_debug}).

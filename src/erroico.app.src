@@ -1,0 +1,9 @@
+{application, erroico,
+ [{description, "Erlang state monad-like parse transform"},
+  {vsn, "0.1"},
+  {modules, []},
+  {registered, []},
+%%  {mod, {erroico_app, []}},
+  {env, []},
+  {applications, [kernel, stdlib]}
+ ]}.
